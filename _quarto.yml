@@ -2,12 +2,15 @@ project:
   type: website
 
 website:
-  title: "TeachingProgrammingWebsite"
+  title: "TeachingProgramming.com"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: https://teachingprogramming.com/book
+        text: Online Book
+      - href: https://www.lulu.com/shop/brittany-blankinship-and-pawel-orzechowski-and-charlotte-desvages-and-kasia-banas/teaching-programming-across-disciplines/paperback/product-p6n2ewq.html?page=1&pageSize=4)
+        text: Buy on Paper
+      - href: https://pairprogramming.ed.ac.uk
+        text: Community Blog + Book Vol. 2
 
 format:
   html:
@@ -16,6 +19,4 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
 

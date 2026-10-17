@@ -2,4 +2,30 @@
 title: "TeachingProgramming"
 ---
 
-This is an absolute beginning of the Teaching Programming quarto website.
+# Teaching Programming Across Disciplines: a collection of articles on teaching coding kindly, openly, and together
+
+We are a group of over 300 teachers of programming across the UK and the World. We wrote a book about inspiring and getting inspired.
+
+18 Oct 2026: We're moving to this new pretty website. Give us a minute.
+
+- [Read the book online](https://teachingprogramming.com/book)
+- [Buy a paper copy](https://www.lulu.com/shop/brittany-blankinship-and-pawel-orzechowski-and-charlotte-desvages-and-kasia-banas/teaching-programming-across-disciplines/paperback/product-p6n2ewq.html?page=1&pageSize=4)
+- [Read Community blog and contriobute to Volume 2](https://pairprogramming.ed.ac.uk)
+
+Pawel and the book editorial team
+
+------------------------------------------------------------------------
+
+from the introduction of our book:
+
+This book is a collection of 36 articles written by 75 educators who teach programming in a wide range of contexts.
+
+Our stories focus on teaching inclusively with respect and curiosity, and learning with joy, openness, kindness, and community spirit.
+
+We are a grassroots teaching-focused community of practice. Our students learn coding superpowers in psychology, music, medicine, business, art, maths, and many more disciplines.
+
+We understand coding as a way of thinking, problem solving,and empathising; not just typing words and brackets.
+
+But since many of our students did not learn to code previously, together we conquer their own (and society’s) misconceptions about what code is, and who gets to become a great programmer. (spoiler: they all do!)
+
+This book collects stories, experiences, and insights from our teaching; we hope that these will inspire you and give younew ideas to incorporate into your own practice.
