@@ -1,1 +1,0 @@
-# teaching-programming.github.io

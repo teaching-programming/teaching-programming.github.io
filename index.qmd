@@ -1,5 +1,0 @@
----
-title: "TeachingProgramming"
----
-
-This is an absolute beginning of the Teaching Programming quarto website.
